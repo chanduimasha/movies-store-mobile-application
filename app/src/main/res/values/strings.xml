@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="register_movie">Register Movie</string>
+    <string name="display_movies">Display Movies</string>
+    <string name="favourites">Favourites</string>
+    <string name="edit_movies">Edit Movies</string>
+    <string name="search">Search</string>
+    <string name="ratings">Ratings</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="Name">Name</string>
+    <string name="Year">Year</string>
+    <string name="Director">Director</string>
+    <string name="Actors">Actors</string>
+    <string name="Rate">Rate</string>
+    <string name="Review">Review</string>
+    <string name="noData">No Data</string>
+    <string name="addToFavourites">Add To Favourites</string>
+    <string name="addedToFavourites">Added To Favourites</string>
+    <string name="Favourites">favourites</string>
+    <string name="noResult">No Result</string>
+</resources>
